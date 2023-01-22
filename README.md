@@ -14,7 +14,7 @@
 ### Обо мне:
 - 🌱 Сейчас продолжаю осваивать Java
 - 📄 Опыт и скилы [CV](https://spb.hh.ru/resume/49035faaff0b5d08680039ed1f6c4155674743)
-- 📫 Связаться со мной можно [telegram](https://t.me/wirt150), [email](aksenov.viktor.al@gmail.com)
+- 📫 Связаться со мной можно [telegram](https://t.me/wirt150)
        
 <div id="socials" align="center">       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="java" width="50" height="50"/>&nbsp;
