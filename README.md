@@ -28,7 +28,7 @@
 
 REST сервис с микросервисной архитектурой позволяющий совершать CRUD операции над объектами. Реализована логика создания ивентов и их модерации, а также управления подборками и подписками.
 
-Стек: Java 11, Spring Boot (MVC, JDBC, AOP), Docker, Hibernate, PostgreSQL, JUnit, Swagger, Maven, Mockito, Lombok
+Стек: Java 11, SQL, Spring Boot (MVC, JDBC, AOP), Docker, Hibernate, PostgreSQL, JUnit, Swagger, Maven, Mockito, Lombok
 
 <div id="project" align="center">   
 	
@@ -39,7 +39,7 @@ REST сервис с микросервисной архитектурой по�
 
 REST сервис с микросервисной архитектурой позволяющий совершать CRUD операции над объектами. Реализована логика реквестов и букинга вещей.
 
-Стек: Java 11, Spring Boot (MVC, AOP), Docker, Hibernate, PostgreSQL, H2, JUnit, Maven, Mockito, Lombok.
+Стек: Java 11, SQL, Spring Boot (MVC, AOP), Docker, Hibernate, PostgreSQL, H2, JUnit, Maven, Mockito, Lombok.
 
 <div id="project" align="center">   
 	
@@ -50,9 +50,20 @@ REST сервис с микросервисной архитектурой по�
 
 REST сервис позволяющий совершать CRUD операции над объектами. Реализована логика добавления оценок и комментариев.
 
-Стек: Java 11, Spring Boot (MVC, AOP), Docker, Hibernate, PostgreSQL, H2, JUnit, Maven, Mockito, Lombok.
+Стек: Java 11, SQL, H2, Spring Boot (MVC, JDBC), Maven, Lombok
 
 <div id="project" align="center">   
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wirt150&repo=java-filmorate-ok)](https://github.com/Wirt150/java-filmorate-ok)
+</div>
+
+4) Менеджер задач - Kanban.
+
+REST сервис для создания, управления различными типами задач, а также хранения их истории. Менеджер умеет сериализовать и десериализовать свое состояние в CSV файл и HTTP сервер.
+
+Стек: Java 8+, Gson, Java HttpServer
+
+<div id="project" align="center">   
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wirt150&repo=java-kanban-ok)](https://github.com/Wirt150/java-kanban-ok)
 </div>
