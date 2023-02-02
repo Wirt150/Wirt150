@@ -16,7 +16,7 @@
 - 📄 Опыт и скилы [CV](https://spb.hh.ru/resume/49035faaff0b5d08680039ed1f6c4155674743)
 - 📫 Связаться со мной можно [telegram](https://t.me/wirt150)
        
-<div id="socials" align="center">       
+<div id="socials" align="center">   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="java" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="spting" width="50" height="50"/>&nbsp;
@@ -26,29 +26,22 @@
 ### Реализованные проекты:
 1) Сервис для планирования событий - ExploreWithMe.
 
-REST сервис с микросервисной архитектурой, CRUD операции над объектами. Реализована логика создания ивентов и их модерации, а также управления подборками и подписками.
+REST сервис с микросервисной архитектурой позволяющий совершать CRUD операции над объектами. Реализована логика создания ивентов и их модерации, а также управления подборками и подписками.
 
-Стек: Java 11, Spring Boot (MVC, JDBC, AOP), Docker, Hibernate, PostgreSQL, JUnit, Swagger, Maven, Mockito, Lombok.
+Стек: Java 11, Spring Boot (MVC, JDBC, AOP), Docker, Hibernate, PostgreSQL, JUnit, Swagger, Maven, Mockito, Lombok
 
 <div id="project" align="center">   
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wirt150&repo=java-explore-with-me)](https://github.com/Wirt150/java-explore-with-me)
 </div>
 
+2) Сервис для аренды вещей - Shareit.
 
-<!--
-**Wirt150/Wirt150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+REST сервис с микросервисной архитектурой позволяющий совершать CRUD операции над объектами. Реализована логика реквестов и букинга вещей.
 
-Here are some ideas to get you started:
+Стек: Java 11, Spring Boot (MVC, JDBC, AOP), Docker, Hibernate, PostgreSQL, JUnit, Swagger, Maven, Mockito, Lombok.
 
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<div id="project" align="center">   
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wirt150&repo=java-shareit)](https://github.com/Wirt150/java-shareit)
+</div>
