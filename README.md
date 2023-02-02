@@ -45,3 +45,14 @@ REST сервис с микросервисной архитектурой по�
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wirt150&repo=java-shareit)](https://github.com/Wirt150/java-shareit)
 </div>
+
+3) Сервис для поиска и оценки фильмов - Filmorate.
+
+REST сервис позволяющий совершать CRUD операции над объектами. Реализована логика добавления оценок и комментариев.
+
+Стек: Java 11, Spring Boot (MVC, AOP), Docker, Hibernate, PostgreSQL, H2, JUnit, Maven, Mockito, Lombok.
+
+<div id="project" align="center">   
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wirt150&repo=java-filmorate-ok)](https://github.com/Wirt150/java-filmorate-ok)
+</div>
