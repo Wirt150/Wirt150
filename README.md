@@ -39,7 +39,7 @@ REST сервис с микросервисной архитектурой по�
 
 REST сервис с микросервисной архитектурой позволяющий совершать CRUD операции над объектами. Реализована логика реквестов и букинга вещей.
 
-Стек: Java 11, Spring Boot (MVC, JDBC, AOP), Docker, Hibernate, PostgreSQL, JUnit, Swagger, Maven, Mockito, Lombok.
+Стек: Java 11, Spring Boot (MVC, AOP), Docker, Hibernate, PostgreSQL, H2, JUnit, Maven, Mockito, Lombok.
 
 <div id="project" align="center">   
 	
