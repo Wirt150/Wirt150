@@ -22,7 +22,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="spting" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" width="50" height="50"/>&nbsp;
 </div>
-<!--
+
+### Реализованные проекты:
+<div id="project" align="left">   
+1)
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wirt150&repo=java-explore-with-me)](https://github.com/Wirt150/java-explore-with-me)
+	
+</div>
+	<!--
 **Wirt150/Wirt150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
