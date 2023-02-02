@@ -24,13 +24,19 @@
 </div>
 
 ### Реализованные проекты:
-<div id="project" align="left">   
-1)
+1) Сервис для планирования событий - ExploreWithMe.
+
+REST сервис с микросервисной архитектурой, CRUD операции над объектами. Реализована логика создания ивентов и их модерации, а также управления подборками и подписками.
+
+Стек: Java 11, Spring Boot (MVC, JDBC, AOP), Docker, Hibernate, PostgreSQL, JUnit, Swagger, Maven, Mockito, Lombok.
+
+<div id="project" align="center">   
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wirt150&repo=java-explore-with-me)](https://github.com/Wirt150/java-explore-with-me)
-	
 </div>
-	<!--
+
+
+<!--
 **Wirt150/Wirt150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
