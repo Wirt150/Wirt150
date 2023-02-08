@@ -70,3 +70,9 @@ REST сервис для создания, управления различны
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wirt150&repo=java-kanban-ok)](https://github.com/Wirt150/java-kanban-ok)
 </div>
+
+<!-- <div id="project" align="center">   
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wirt150)
+</div> -->
+
