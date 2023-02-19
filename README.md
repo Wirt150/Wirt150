@@ -31,7 +31,7 @@
 
 REST сервис с микросервисной архитектурой позволяющий совершать CRUD операции над объектами. Реализована логика создания ивентов и их модерации, а также управления подборками и подписками.
 
-Стек: Java 11, SQL, Spring Boot (MVC, JDBC, AOP), Docker, Hibernate, PostgreSQL, JUnit, Swagger, Maven, Mockito, Lombok
+Стек: Java 11, SQL, Spring Boot (MVC, JDBC, AOP), Docker, Hibernate, PostgreSQL, JUnit, Swagger, Maven, Mockito, Lombok, Mapstruct
 
 <div id="project" align="center">   
 	
